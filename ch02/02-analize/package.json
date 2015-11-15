@@ -1,5 +1,8 @@
 {
   "name": "02-analize",
   "version": "0.0.0",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "cheerio-httpcli": "^0.3.7"
+  }
 }

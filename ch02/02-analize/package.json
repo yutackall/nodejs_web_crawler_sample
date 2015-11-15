@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "devDependencies": {
-    "cheerio-httpcli": "^0.3.7"
+    "cheerio-httpcli": "^0.3.7",
+    "request": "^2.65.0"
   }
 }

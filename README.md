@@ -14,3 +14,5 @@ JS + Node.jsによるWebクローラー/ネットエージェント [開発テ�
 |章|ファイル名|修正内容|
 |---|:---|:---|
 |第2章02|[showimage.js](ch02/02-analize/showimage.js)|fetch 対象の Wikipedia の URL に日本語が含まれており、404 エラーになるため、URL エンコードの処理を追加|
+|第2章02|[dl-image.js](ch02/02-analize/dl-image.js)|fetch 対象の Wikipedia の URL に日本語が含まれており、404 エラーになるため、URL エンコードの処理を追加|
+|第2章02|[dl-image.js](ch02/02-analize/dl-image.js)|ダウンドードする画像ファイルの URL に日本語が含まれるのを考慮するため、URL エンコードの処理を追加|
